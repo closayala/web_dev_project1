@@ -1,1 +1,1 @@
-This is myfirst project for ITMD 361 class. I am creating three pages worth of content in HTML. For my three pages, I chose my resume, all about me, and a Chicago Bears page. Stay tuned for more updates to my website!
+This is my first project for ITMD 361 class. I am creating three pages worth of content in HTML. For my three pages, I chose my resume, all about me, and a Chicago Bears page. Stay tuned for more updates to my website!
